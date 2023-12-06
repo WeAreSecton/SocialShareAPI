@@ -7,7 +7,7 @@ Generate social cards for websites without effort.
 ## Getting started
 ### Sample Request
 ```
-https://lab.secton.eu.org/socialshare/api/generate.php?theme=classic-light&title=My%20awesome%20website&description=Find%20any%20video%20you%20want%20within%20seconds.
+https://lab.secton.eu.org/socialshare/api/generate?theme=classic-light&title=My%20awesome%20website&description=Find%20any%20video%20you%20want%20within%20seconds.
 ```
 ### Sample Response
 ![img](https://lab.secton.eu.org/socialshare/api/generate.php?theme=classic-light&title=My%20awesome%20website&description=Find%20any%20video%20you%20want%20within%20seconds.)
