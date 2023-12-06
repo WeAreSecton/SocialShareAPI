@@ -1,4 +1,5 @@
 <p align="center"><img src="https://github.com/WeAreSecton/SocialShareAPI/blob/master/assets/img/logo.png?raw=true" align="center" height="48" /></p>
+<p align="center"><img src="https://img.shields.io/github/v/release/WeAreSecton/SocialShareAPI?style=for-the-badge&color=%2334A870" align="center" /> <img src="https://img.shields.io/github/issues/WeAreSecton/SocialShareAPI?style=for-the-badge&color=%2334A870" align="center" /></p>
 
 ## Getting started
 ### Sample Request
