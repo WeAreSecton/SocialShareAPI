@@ -1,8 +1,4 @@
-<h1>
-  <img src="https://github.com/WeAreSecton/SocialShareAPI/blob/master/assets/img/icon.png?raw=true" align="right" width="48" height="48" />
-  Social Share
-</h1>
-Generate social cards for websites without effort.
+<p align="center"><img src="https://github.com/WeAreSecton/SocialShareAPI/blob/master/assets/img/logo.png?raw=true" align="center" height="48" /></p>
 
 ## Getting started
 ### Sample Request
