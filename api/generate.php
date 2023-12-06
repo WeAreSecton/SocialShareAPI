@@ -33,7 +33,7 @@ if ( strlen( $title ) > 32 ) {
     echo json_encode( [ 'error' => 'Title exceeds maximum length' ] );
     exit();
 }
-if ( strlen( $description ) > 32 ) {
+if ( strlen( $description ) > 64 ) {
     http_response_code( 400 );
     echo json_encode( [ 'error' => 'Description exceeds maximum length' ] );
     exit();
